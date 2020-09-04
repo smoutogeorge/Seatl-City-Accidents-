@@ -1,2 +1,4 @@
 # Seatl-City-Accidents-
-Using Seatle city accidents data + create a Machine Learnig 
+Using Seattle city accidents data + create a Machine Learning 
+
+The main python script is data_cleaning.py in the "scripts" subdirectory.
